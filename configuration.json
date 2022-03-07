@@ -1,0 +1,8 @@
+ “Processors”: [
+ {
+   “ObjectType”: “VstsSyncMigrator.Engine.Configuration.Processing.NodeStructuresMigrationConfig”,
+   “PrefixProjectToNodes”: false,
+   “Enabled”: true
+ },
+ …
+ ]
